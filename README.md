@@ -130,6 +130,7 @@
  http://ok213.top/tv		# OK影视内部接口
  http://ok213.top/ok		# OK影视公开接口
  http://tvbox.王二小放牛娃.top		# 王小二放牛娃接口
+ https://9280.kstore.vip/newwex.json # 王小二放牛娃新接口
  https://www.yingm.cc/dm/dm.json  	# 动漫城接口
  http://home.jundie.top:81/top98.json	# 俊佬接口
  http://cdn.qiaoji8.com/tvbox.json		# 巧记
@@ -147,7 +148,6 @@
  https://bitbucket.org/xduo/duoapi/raw/master/xpg.json		# 小苹果接口
  https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json		# 宝盒VIP
  https://xn--anna-wn6lw489o.v.nxog.top/m/  # 欧歌
- https://哪吒.live/	# 哪吒
  https://www.252035.xyz/z/FongMi.json	# 真心
  http://www.meowtv.vip/tvbox.json	# 喵影视
  http://fmys.top/fmys.json	# 驸马
